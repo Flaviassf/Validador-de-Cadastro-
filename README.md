@@ -38,7 +38,7 @@ O projeto inclui testes para:
 - Testes positivos e negativos
 - Validação de dados
 
-## 👨‍💻 Autor
+## Autora
 
 Flávia de Sousa- Aspirante a QA Júnior
 
